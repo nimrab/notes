@@ -1,0 +1,22 @@
+{
+  "name": "notes",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "sass-loader": "^10",
+    "vue": "^2.6.14",
+    "vuex": "^3.6.2",
+    "vue-router": "^4.0.14"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.49.9",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
